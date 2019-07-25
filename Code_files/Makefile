@@ -1,6 +1,6 @@
 # This file is for converting .tex file to pdf. 
 # - Put this file under the same directory as your target .tex file;
-# - Change '*.tex' to your target file's name; 
+# - Change 'main' to your target file's name; 
 # - Using command 'make' to convert target file into pdf version.
 
 I
